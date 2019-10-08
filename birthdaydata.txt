@@ -35,3 +35,10 @@ Rhemi 8 6
 Hayden 8 28
 Emily 7 18
 George 3 24
+Avni 2 16
+Dylan 9 15
+Raoul 11 17
+Ingyin 4 2
+Mackenzie 7 2
+Chae 5 26
+Louis 2 6
