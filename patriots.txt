@@ -1,0 +1,52 @@
+FIRST LAST        NUM    POS     AGE     HT      WT      EXP     COLLEGE
+Brian Hoyer        2    QB      34      6' 2"   216 lbs 12      Michigan State
+Jarrett Stidham    4        QB      24      6' 3"   215 lbs 2       Auburn
+Rex Burkhead       34  RB      30      5' 10"  215 lbs 8       Nebraska
+Damien Harris      37 RB      23      5' 11"  213 lbs 2       Alabama
+J.J. Taylor        42   RB      22      5' 6"   185 lbs R       Arizona
+James White        28   RB      28      5' 10"  205 lbs 7       Wisconsin
+Jakob Johnson      47 FB      25      6' 3"   255 lbs 2       Tennessee
+Damiere Byrd       10  WR      27      5' 9"   180 lbs 5       South Carolina
+Julian Edelman     11        WR      34      5' 10"  198 lbs 12      Kent State
+N'Keal Harry       15  WR      22      6' 4"   225 lbs 2       Arizona State
+Jakobi Meyers      16 WR      23      6' 2"   200 lbs 2       North Carolina State
+Gunner Olszewski   80      WR      23      6' 0"   190 lbs 2       Bemidji State
+Matthew Slater     18        WR      35      6' 0"   205 lbs 13      UCLA
+Devin Asiasi       86  TE      23      6' 3"   257 lbs R       UCLA
+Ryan Izzo          85     TE      24      6' 5"   255 lbs 3       Florida State
+Dalton Keene       44  TE      21      6' 4"   251 lbs R       Virginia Tech
+James Ferentz      66 C       31      6' 2"   300 lbs 4       Iowa
+Jermaine Eluemunor 72    G       25      6' 4"   335 lbs 4       Texas A&M
+Hjalte Froholdt    64       G       24      6' 5"   310 lbs 2       Arkansas
+Shaq Mason         69    G       27      6' 1"   310 lbs 6       Georgia Tech
+Mike Onwenu        71   G       22      6' 3"   350 lbs R       Michigan
+Joe Thuney         62    G       27      6' 5"   308 lbs 5       North Carolina State
+Korey Cunningham   74      OT      25      6' 6"   311 lbs 3       Cincinnati
+Justin Herron      75 OT      24      6' 5"   305 lbs R       Wake Forest
+Isaiah Wynn        76   OT      24      6' 2"   310 lbs 3       Georgia
+Lawrence Guy       93  DE      30      6' 4"   315 lbs 10      Arizona State
+Derek Rivers       95  DE      26      6' 5"   250 lbs 4       Youngstown State
+John Simon         55    DE      29      6' 2"   260 lbs 8       Ohio State
+Chase Winovich     50        DE      25      6' 3"   250 lbs 2       Michigan
+Deatrich Wise_Jr.  91     DE      26      6' 5"   275 lbs 4       Arkansas
+Adam Butler        70   DT      26      6' 5"   300 lbs 4       Vanderbilt
+Byron Cowart       99  DT      24      6' 3"   300 lbs 2       Maryland
+Ja'Whaun Bentley   51      LB      24      6' 2"   255 lbs 3       Purdue
+Shilique Calhoun   90      LB      28      6' 4"   260 lbs 5       Michigan State
+Brandon Copeland   52      LB      29      6' 3"   263 lbs 6       Pennsylvania
+Anfernee Jennings  58     LB      23      6' 3"   259 lbs R       Alabama
+Cassh Maluia       46  LB      22      6' 0"   248 lbs R       Wyoming
+Justin Bethel      29 CB      30      6' 0"   200 lbs 9       Presbyterian
+Myles Bryant       41  CB      22      5' 9"   185 lbs R       Washington
+Stephon Gilmore    24       CB      30      6' 1"   202 lbs 9       South Carolina
+J.C. Jackson       27  CB      24      6' 1"   198 lbs 3       Maryland
+Jonathan Jones     31        CB      27      5' 10"  190 lbs 5       Auburn
+Jason McCourty     30        CB      33      5' 11"  195 lbs 12      Rutgers
+Joejuan Williams   33      CB      22      6' 3"   212 lbs 2       Vanderbilt
+Terrence Brooks    25       S       28      5' 11"  205 lbs 7       Florida State
+Kyle Dugger        35   S       24      6' 2"   220 lbs R       Lenoir-Rhyne
+Devin McCourty     32        S       33      5' 10"  195 lbs 11      Rutgers
+Adrian Phillips    21       S       28      5' 11"  210 lbs 6       Texas
+Nick Folk          6      PK      35      6' 1"   222 lbs 13      Arizona
+Jake Bailey        7    P       23      6' 2"   205 lbs 2       Stanford
+Joe Cardona        49   LS      28      6' 3"   245 lbs 6       Navy

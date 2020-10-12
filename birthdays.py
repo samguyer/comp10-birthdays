@@ -13,8 +13,8 @@ def read_birthday_file(filename):
         name = parts[0]
         month = int(parts[1])
         day = int(parts[2])
-        # -- Make a birthday tuple and append it to the list
-        birthday = (name, month, day)
+        # -- Make a birthday sublist and append it to the big list
+        birthday = [name, month, day]
         birthdays.append(birthday)
 
     return birthdays
@@ -22,5 +22,4 @@ def read_birthday_file(filename):
 # -- Main program
 bdays = read_birthday_file('birthdaydata.txt')
 for b in bdays:
-    (name, month, day) = b
     print(b)
