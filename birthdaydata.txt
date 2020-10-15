@@ -41,3 +41,4 @@ Rachel 3 1
 Vincent 12 7
 Olivia 5 19
 ConnorD 10 11
+Sam 5 25
